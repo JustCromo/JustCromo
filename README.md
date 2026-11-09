@@ -1,8 +1,8 @@
  <div align="center">
 
-<img src="assets/decorations/forest-top-frame.png" width="100%" alt="" />
+<img src="assets/decorations/forest-top-frame.png" width="85%" alt="" />
 
-<img src="assets/branding/justcromo.png" width="120" alt="JustCromo logo" />
+<img src="assets/branding/justcromo.png" width="190" alt="JustCromo logo" />
 
 # Hey, I'm JustCromo!
 
