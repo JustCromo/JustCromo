@@ -31,7 +31,7 @@ I enjoy working with Linux, programming, networking, and cybersecurity.
 
 <img src="assets/decorations/fireflies.gif" width="100%" alt="" />
 
-<img src="assets/decorations/moon-divider.png" width="100%" alt="" />
+<img src="assets/decorations/lantern-divider.png" width="100%" alt="" />
 
 </div>
 
@@ -71,7 +71,7 @@ A Linux security assessment tool focused on identifying system risks and potenti
 
 <img src="assets/decorations/fireflies.gif" width="100%" alt="" />
 
-<img src="assets/decorations/lantern-divider.png" width="100%" alt="" />
+<img src="assets/decorations/moon-divider.png" width="100%" alt="" />
 
 </div>
 
