@@ -1,6 +1,6 @@
- <div align="center">
+<div align="center">
 
-<img src="assets/decorations/woodland-header.png" width="100%" alt="Woodland pixel art header" />
+<img src="assets/decorations/header.png" width="100%" alt="Forest pixel art banner" />
 
 <br/>
 
@@ -8,32 +8,30 @@
 
 # Hey, I'm JustCromo!
 
-*A little corner of the digital woodland.*
-
-Cybersecurity · Software Development · Linux
+**NETWORK & INFRASTRUCTURE SECURITY**
 
 [![GitHub](https://img.shields.io/badge/GitHub-JustCromo-344A3D?style=flat-square&logo=github&logoColor=E8DCC4)](https://github.com/JustCromo)
 
 </div>
 
----
+<div align="center">
+<img src="assets/decorations/about-divider.png" width="100%" alt="" />
+</div>
 
 ## 🌱 About Me
 
-Hi! I'm a developer and cybersecurity enthusiast interested in understanding how systems work, building useful tools, and exploring the intersection between software and security.
+Hi! I'm interested in understanding how systems work, building useful tools, and exploring the intersection between software and security.
 
-I enjoy working with Linux, programming, networking, and cybersecurity. Most of my projects are inspired by the little creatures of the digital woodland.
+I enjoy working with Linux, programming, networking, and cybersecurity.
 
-- 🔐 Interested in cybersecurity and system security.
-- 🐧 Linux enthusiast.
+- 🔐 Network and infrastructure security.
+- 🐧 Linux and system administration.
 - 💻 Software development and experimentation.
-- 🌿 Building projects one step at a time.
+- 🌐 Networking and infrastructure.
 
 <div align="center">
-<img src="assets/decorations/woodland-about.png" width="75%" alt="Woodland plants and creatures" />
+<img src="assets/decorations/projects-divider.png" width="100%" alt="" />
 </div>
-
----
 
 ## 🍄 My Projects
 
@@ -71,7 +69,9 @@ A Linux security assessment tool focused on identifying system risks and potenti
 
 </div>
 
----
+<div align="center">
+<img src="assets/decorations/greenhouse-divider.png" width="100%" alt="" />
+</div>
 
 ## 🌿 My Greenhouse
 
@@ -95,13 +95,3 @@ A Linux security assessment tool focused on identifying system risks and potenti
 </div>
 
 ---
-
-<div align="center">
-
-<img src="assets/decorations/woodland-footer.png" width="100%" alt="Woodland pixel art footer" />
-
-**Thanks for wandering by!**
-
-<sub>Growing ideas, one commit at a time.</sub>
-
-</div>
