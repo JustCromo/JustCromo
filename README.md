@@ -1,5 +1,9 @@
  <div align="center">
 
+<img src="assets/decorations/forest-top-frame.png" width="100%" alt="" />
+
+<img src="assets/branding/justcromo.png" width="120" alt="JustCromo logo" />
+
 # Hey, I'm JustCromo!
 
 **NETWORK & INFRASTRUCTURE SECURITY**
@@ -92,4 +96,8 @@ A Linux security assessment tool focused on identifying system risks and potenti
 
 </div>
 
----
+<div align="center">
+
+<img src="assets/decorations/forest-bottom-frame.png" width="100%" alt="" />
+
+</div>
