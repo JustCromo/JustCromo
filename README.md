@@ -86,6 +86,12 @@ A Linux security assessment tool focused on identifying system risks and potenti
 ---
 
 <div align="center">
+  <img src="assets/decorations/woodland-footer.png"
+       width="100%"
+       alt="Woodland pixel art decorations" />
+</div>
+
+<div align="center">
 
 **Thanks for wandering by!**
 
