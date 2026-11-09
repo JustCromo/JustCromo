@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Personal logo placeholder: add your logo when it is ready -->
-<img src="assets/branding/justcromo-logo.png" width="120" alt="JustCromo logo" />
+<img src="assets/branding/justcromo.png" width="120" alt="JustCromo logo" />
 
 # Hey, I'm JustCromo! 🌿
 
