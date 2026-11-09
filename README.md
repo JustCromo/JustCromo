@@ -1,10 +1,12 @@
- <div align="center">
+<div align="center">
 
 # Hey, I'm JustCromo!
 
 **NETWORK & INFRASTRUCTURE SECURITY**
 
 [![GitHub](https://img.shields.io/badge/GitHub-JustCromo-344A3D?style=for-the-badge&logo=github&logoColor=E8DCC4)](https://github.com/JustCromo)
+
+<img src="assets/decorations/fireflies.gif" width="100%" alt="" />
 
 </div>
 
@@ -22,6 +24,10 @@ I enjoy working with Linux, programming, networking, and cybersecurity.
 - 🐧 Linux and system administration.
 - 💻 Software development and experimentation.
 - 🌐 Networking and infrastructure.
+
+<div align="center">
+<img src="assets/decorations/fireflies.gif" width="100%" alt="" />
+</div>
 
 <div align="center">
 <img src="assets/decorations/projects-divider.png" width="100%" alt="" />
@@ -65,6 +71,10 @@ A Linux security assessment tool focused on identifying system risks and potenti
 </tr>
 </table>
 
+</div>
+
+<div align="center">
+<img src="assets/decorations/fireflies.gif" width="100%" alt="" />
 </div>
 
 <div align="center">
