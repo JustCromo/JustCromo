@@ -1,10 +1,8 @@
-<div align="center">
+ <div align="center">
 
 <img src="assets/decorations/header.png" width="100%" alt="Forest pixel art banner" />
 
-<br/>
-
-<img src="assets/branding/justcromo.png" width="125" alt="JustCromo logo" />
+<img src="assets/branding/justcromo.png" width="110" alt="JustCromo logo" />
 
 # Hey, I'm JustCromo!
 
@@ -39,7 +37,7 @@ I enjoy working with Linux, programming, networking, and cybersecurity.
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center" valign="top" width="50%">
 
 <a href="https://github.com/JustCromo/Vulpnix">
 <img src="assets/projects/vulpnix.png" width="130" alt="Vulpnix logo" />
@@ -55,7 +53,7 @@ A Linux security assessment tool focused on identifying system risks and potenti
 ![Linux](https://img.shields.io/badge/Linux-344A3D?style=flat-square&logo=linux&logoColor=E8DCC4)
 
 </td>
-<td align="center" width="50%">
+<td align="center" valign="top" width="50%">
 
 <a href="https://github.com/JustCromo/Racoonix">
 <img src="assets/projects/racoonix.png" width="130" alt="Racoonix logo" />
