@@ -2,11 +2,13 @@
 
 <img src="assets/decorations/woodland-header.png" width="100%" alt="Woodland pixel art header" />
 
-<img src="assets/branding/justcromo.png" width="150" alt="JustCromo logo" />
+<br/>
+
+<img src="assets/branding/justcromo.png" width="125" alt="JustCromo logo" />
 
 # Hey, I'm JustCromo!
 
-**A little corner of the digital woodland.**
+*A little corner of the digital woodland.*
 
 Cybersecurity · Software Development · Linux
 
@@ -15,10 +17,6 @@ Cybersecurity · Software Development · Linux
 </div>
 
 ---
-
-<div align="center">
-<img src="assets/decorations/woodland-divider.png" width="85%" alt="Woodland divider" />
-</div>
 
 ## 🌱 About Me
 
@@ -32,27 +30,21 @@ I enjoy working with Linux, programming, networking, and cybersecurity. Most of 
 - 🌿 Building projects one step at a time.
 
 <div align="center">
-<img src="assets/decorations/woodland-about.png" width="100%" alt="Woodland plants and creatures" />
+<img src="assets/decorations/woodland-about.png" width="75%" alt="Woodland plants and creatures" />
 </div>
 
 ---
 
-<div align="center">
-<img src="assets/decorations/woodland-divider.png" width="85%" alt="Woodland divider" />
-</div>
-
 ## 🍄 My Projects
 
 <div align="center">
-
-<img src="assets/decorations/project-corner-left.png" width="100%" alt="Woodland decoration" />
 
 <table>
 <tr>
 <td align="center" width="50%">
 
 <a href="https://github.com/JustCromo/Vulpnix">
-<img src="assets/projects/vulpnix.png" width="160" alt="Vulpnix logo" />
+<img src="assets/projects/vulpnix.png" width="130" alt="Vulpnix logo" />
 </a>
 
 ### [Vulpnix](https://github.com/JustCromo/Vulpnix)
@@ -63,13 +55,12 @@ A Linux security assessment tool focused on identifying system risks and potenti
 
 ![Python](https://img.shields.io/badge/Python-344A3D?style=flat-square&logo=python&logoColor=E8DCC4)
 ![Linux](https://img.shields.io/badge/Linux-344A3D?style=flat-square&logo=linux&logoColor=E8DCC4)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-344A3D?style=flat-square&logo=hackthebox&logoColor=E8DCC4)
 
 </td>
 <td align="center" width="50%">
 
 <a href="https://github.com/JustCromo/Racoonix">
-<img src="assets/projects/racoonix.png" width="160" alt="Racoonix logo" />
+<img src="assets/projects/racoonix.png" width="130" alt="Racoonix logo" />
 </a>
 
 ### [Racoonix](https://github.com/JustCromo/Racoonix)
@@ -78,19 +69,15 @@ A Linux security assessment tool focused on identifying system risks and potenti
 </tr>
 </table>
 
-<img src="assets/decorations/project-corner-right.png" width="100%" alt="Woodland decoration" />
-
 </div>
 
 ---
 
-<div align="center">
-<img src="assets/decorations/woodland-divider.png" width="85%" alt="Woodland divider" />
-</div>
-
 ## 🌿 My Greenhouse
 
 **Languages & Technologies**
+
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-344A3D?style=flat-square&logo=python&logoColor=E8DCC4)
 ![C++](https://img.shields.io/badge/C%2B%2B-344A3D?style=flat-square&logo=cplusplus&logoColor=E8DCC4)
@@ -105,8 +92,6 @@ A Linux security assessment tool focused on identifying system risks and potenti
 ![Docker](https://img.shields.io/badge/Docker-344A3D?style=flat-square&logo=docker&logoColor=E8DCC4)
 ![Networking](https://img.shields.io/badge/Networking-344A3D?style=flat-square&logo=cisco&logoColor=E8DCC4)
 
-<div align="center">
-<img src="assets/decorations/woodland-corner.png" width="180" alt="Woodland corner decoration" />
 </div>
 
 ---
