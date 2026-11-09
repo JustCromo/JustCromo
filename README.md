@@ -1,13 +1,14 @@
-<div align="center">
+ <div align="center">
 
-<!-- Personal logo placeholder: add your logo when it is ready -->
-<img src="assets/branding/justcromo.png" width="120" alt="JustCromo logo" />
+<img src="assets/branding/justcromo.png" width="150" alt="JustCromo logo" />
 
-# Hey, I'm JustCromo! 🌿
+# Hey, I'm JustCromo!
 
-### A little corner of the digital woodland.
+**A little corner of the digital woodland.**
 
 Cybersecurity · Software Development · Linux
+
+[![GitHub](https://img.shields.io/badge/GitHub-JustCromo-344A3D?style=flat-square&logo=github&logoColor=E8DCC4)](https://github.com/JustCromo)
 
 </div>
 
@@ -35,7 +36,7 @@ I enjoy working with Linux, programming, networking, and cybersecurity. Most of 
 <td align="center" width="50%">
 
 <a href="https://github.com/JustCromo/Vulpnix">
-<img src="assets/projects/vulpnix.png" width="180" alt="Vulpnix logo" />
+<img src="assets/projects/vulpnix.png" width="160" alt="Vulpnix logo" />
 </a>
 
 ### [Vulpnix](https://github.com/JustCromo/Vulpnix)
@@ -52,7 +53,7 @@ A Linux security assessment tool focused on identifying system risks and potenti
 <td align="center" width="50%">
 
 <a href="https://github.com/JustCromo/Racoonix">
-<img src="assets/projects/racoonix.png" width="180" alt="Racoonix logo" />
+<img src="assets/projects/racoonix.png" width="160" alt="Racoonix logo" />
 </a>
 
 ### [Racoonix](https://github.com/JustCromo/Racoonix)
@@ -67,7 +68,7 @@ A Linux security assessment tool focused on identifying system risks and potenti
 
 ## 🌿 My Greenhouse
 
-### Languages & Technologies
+**Languages & Technologies**
 
 ![Python](https://img.shields.io/badge/Python-344A3D?style=flat-square&logo=python&logoColor=E8DCC4)
 ![C++](https://img.shields.io/badge/C%2B%2B-344A3D?style=flat-square&logo=cplusplus&logoColor=E8DCC4)
@@ -75,7 +76,7 @@ A Linux security assessment tool focused on identifying system risks and potenti
 ![JavaScript](https://img.shields.io/badge/JavaScript-344A3D?style=flat-square&logo=javascript&logoColor=E8DCC4)
 ![PHP](https://img.shields.io/badge/PHP-344A3D?style=flat-square&logo=php&logoColor=E8DCC4)
 
-### Tools & Environment
+**Tools & Environment**
 
 ![Linux](https://img.shields.io/badge/Linux-344A3D?style=flat-square&logo=linux&logoColor=E8DCC4)
 ![Git](https://img.shields.io/badge/Git-344A3D?style=flat-square&logo=git&logoColor=E8DCC4)
@@ -84,21 +85,9 @@ A Linux security assessment tool focused on identifying system risks and potenti
 
 ---
 
-## 📊 GitHub Forest
-
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=JustCromo&show_icons=true&hide_border=true&bg_color=17251F&title_color=A6B89A&icon_color=C6A6D9&text_color=E8DCC4" alt="GitHub statistics" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustCromo&layout=compact&hide_border=true&bg_color=17251F&title_color=A6B89A&text_color=E8DCC4" alt="Most used languages" />
-
-</div>
-
----
-
-<div align="center">
-
-*Thanks for wandering by!* 🌱
+**Thanks for wandering by!**
 
 <sub>Growing ideas, one commit at a time.</sub>
 
