@@ -8,7 +8,7 @@
 
 **NETWORK & INFRASTRUCTURE SECURITY**
 
-[![GitHub](https://img.shields.io/badge/GitHub-JustCromo-344A3D?style=for-the-badge&logo=github&logoColor=E8DCC4)](https://github.com/JustCromo)
+[![GitHub](https://img.shields.io/badge/GITHUB-JustCromo-344A3D?style=for-the-badge&logo=github&logoColor=E8DCC4)](https://github.com/JustCromo)
 
 <img src="assets/decorations/fireflies.gif" width="100%" alt="" />
 
@@ -18,14 +18,14 @@
 
 ## 🌱 About Me
 
-Hi! I'm interested in understanding how systems work, building useful tools, and exploring the intersection between software and security.
+I'm interested in understanding how systems work, building useful tools, and exploring the intersection of software and security.
 
-I enjoy working with Linux, programming, networking, and cybersecurity.
+My main areas of interest include:
 
-- 🔐 Network and infrastructure security.
-- 🐧 Linux and system administration.
-- 💻 Software development and experimentation.
-- 🌐 Networking and infrastructure.
+- 🔐 **Network & Infrastructure Security**
+- 🐧 **Linux & System Administration**
+- 💻 **Software Development**
+- 🌐 **Networking & Infrastructure**
 
 <div align="center">
 
