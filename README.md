@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 # Hey, I'm JustCromo!
 
@@ -8,10 +8,8 @@
 
 <img src="assets/decorations/fireflies.gif" width="100%" alt="" />
 
-</div>
+<img src="assets/decorations/flower-divider.png" width="100%" alt="" />
 
-<div align="center">
-<img src="assets/decorations/about-divider.png" width="100%" alt="" />
 </div>
 
 ## 🌱 About Me
@@ -26,18 +24,14 @@ I enjoy working with Linux, programming, networking, and cybersecurity.
 - 🌐 Networking and infrastructure.
 
 <div align="center">
-<img src="assets/decorations/fireflies.gif" width="100%" alt="" />
-</div>
 
-<div align="center">
-<img src="assets/decorations/projects-divider.png" width="100%" alt="" />
+<img src="assets/decorations/fireflies.gif" width="100%" alt="" />
+
+<img src="assets/decorations/moon-divider.png" width="100%" alt="" />
+
 </div>
 
 ## 🍄 My Projects
-
-<div align="center">
-<img src="assets/decorations/project-frame-corners.png" width="100%" alt="" />
-</div>
 
 <div align="center">
 
@@ -71,14 +65,10 @@ A Linux security assessment tool focused on identifying system risks and potenti
 </tr>
 </table>
 
-</div>
-
-<div align="center">
 <img src="assets/decorations/fireflies.gif" width="100%" alt="" />
-</div>
 
-<div align="center">
-<img src="assets/decorations/greenhouse-divider.png" width="100%" alt="" />
+<img src="assets/decorations/lantern-divider.png" width="100%" alt="" />
+
 </div>
 
 ## 🌿 My Greenhouse
