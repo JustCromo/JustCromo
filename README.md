@@ -1,5 +1,7 @@
  <div align="center">
 
+<img src="assets/decorations/woodland-header.png" width="100%" alt="Woodland pixel art header" />
+
 <img src="assets/branding/justcromo.png" width="150" alt="JustCromo logo" />
 
 # Hey, I'm JustCromo!
@@ -14,6 +16,10 @@ Cybersecurity · Software Development · Linux
 
 ---
 
+<div align="center">
+<img src="assets/decorations/woodland-divider.png" width="85%" alt="Woodland divider" />
+</div>
+
 ## 🌱 About Me
 
 Hi! I'm a developer and cybersecurity enthusiast interested in understanding how systems work, building useful tools, and exploring the intersection between software and security.
@@ -25,11 +31,21 @@ I enjoy working with Linux, programming, networking, and cybersecurity. Most of 
 - 💻 Software development and experimentation.
 - 🌿 Building projects one step at a time.
 
+<div align="center">
+<img src="assets/decorations/woodland-about.png" width="100%" alt="Woodland plants and creatures" />
+</div>
+
 ---
+
+<div align="center">
+<img src="assets/decorations/woodland-divider.png" width="85%" alt="Woodland divider" />
+</div>
 
 ## 🍄 My Projects
 
 <div align="center">
+
+<img src="assets/decorations/project-corner-left.png" width="100%" alt="Woodland decoration" />
 
 <table>
 <tr>
@@ -62,9 +78,15 @@ A Linux security assessment tool focused on identifying system risks and potenti
 </tr>
 </table>
 
+<img src="assets/decorations/project-corner-right.png" width="100%" alt="Woodland decoration" />
+
 </div>
 
 ---
+
+<div align="center">
+<img src="assets/decorations/woodland-divider.png" width="85%" alt="Woodland divider" />
+</div>
 
 ## 🌿 My Greenhouse
 
@@ -83,15 +105,15 @@ A Linux security assessment tool focused on identifying system risks and potenti
 ![Docker](https://img.shields.io/badge/Docker-344A3D?style=flat-square&logo=docker&logoColor=E8DCC4)
 ![Networking](https://img.shields.io/badge/Networking-344A3D?style=flat-square&logo=cisco&logoColor=E8DCC4)
 
+<div align="center">
+<img src="assets/decorations/woodland-corner.png" width="180" alt="Woodland corner decoration" />
+</div>
+
 ---
 
 <div align="center">
-  <img src="assets/decorations/woodland-footer.png"
-       width="100%"
-       alt="Woodland pixel art decorations" />
-</div>
 
-<div align="center">
+<img src="assets/decorations/woodland-footer.png" width="100%" alt="Woodland pixel art footer" />
 
 **Thanks for wandering by!**
 
