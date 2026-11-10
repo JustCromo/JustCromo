@@ -9,7 +9,7 @@
 **Network & Infrastructure Security**<br/>
 Student at ITS Academy Prodigi · 🌙 open to internships
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ivan_Alexander_Urlini-344A3D?style=for-the-badge&labelColor=5B4A6B)](https://www.linkedin.com/in/ivan-alexander-urlini)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ivan_Alexander_Urlini-344A3D?style=for-the-badge&labelColor=5B4A6B)](https://www.linkedin.com/in/ivan-alexander-urlini-9187b8276/)
 
 <img src="assets/decorations/flower-divider.png" width="100%" alt="" />
 
