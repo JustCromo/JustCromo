@@ -59,7 +59,6 @@ A self-hosted web app for small markets: inventory by batch,<br/>expiry alerts a
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-344A3D?style=for-the-badge&logo=postgresql&logoColor=E8DCC4)
 ![Docker](https://img.shields.io/badge/Docker-344A3D?style=for-the-badge&logo=docker&logoColor=E8DCC4)
 
-![Status](https://img.shields.io/badge/🌱_in_development-5B4A6B?style=flat-square)
 
 </td>
 </tr>
