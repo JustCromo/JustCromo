@@ -64,7 +64,6 @@ A self-hosted web app for small markets:<br/>batch inventory, expiry and restock
 </tr>
 </table>
 
-<sub>🌾 <b>Also in the forest:</b> <a href="https://github.com/JustCromo/Corvynix">Corvynix</a>, hackathon prototypes for a medical drone capsule: a tamper-evident digital black box and GNSS spoofing detection.</sub>
 
 <img src="assets/decorations/moon-divider.png" width="100%" alt="" />
 
