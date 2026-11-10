@@ -1,57 +1,43 @@
- <div align="center">
+<div align="center">
 
 <img src="assets/decorations/forest-top-frame.png" width="100%" alt="" />
 
-<img src="assets/branding/justcromo.png" width="190" alt="JustCromo logo" />
+<img src="assets/branding/justcromo.png" width="160" alt="JustCromo logo" />
 
 # Hey, I'm JustCromo!
 
-**NETWORK & INFRASTRUCTURE SECURITY**
+**Network & Infrastructure Security** · System Cyber Security student at ITS Academy Prodigi
 
-[![GitHub](https://img.shields.io/badge/GITHUB-JustCromo-344A3D?style=for-the-badge&logo=github&logoColor=E8DCC4)](https://github.com/JustCromo)
+<sub>🌙 Currently looking for an internship</sub>
 
 <img src="assets/decorations/fireflies.gif" width="100%" alt="" />
 
-<img src="assets/decorations/flower-divider.png" width="100%" alt="" />
-
-</div>
+<img src="assets/decorations/about-divider.png" width="100%" alt="" />
 
 ## 🌱 About Me
 
-I'm interested in understanding how systems work, building useful tools, and exploring the intersection of software and security.
+I like to understand how systems really work, then build small tools that make them easier to read and safer to run.<br/>
+Every project in my forest has its own creature, because security tools can be friendly too.
 
-My main areas of interest include:
+🔐 Security &nbsp;·&nbsp; 🐧 Linux & SysAdmin &nbsp;·&nbsp; 🌐 Networking &nbsp;·&nbsp; 💻 Software Development
 
-- 🔐 **Network & Infrastructure Security**
-- 🐧 **Linux & System Administration**
-- 💻 **Software Development**
-- 🌐 **Networking & Infrastructure**
-
-<div align="center">
-
-<img src="assets/decorations/fireflies.gif" width="100%" alt="" />
-
-<img src="assets/decorations/lantern-divider.png" width="100%" alt="" />
-
-</div>
+<img src="assets/decorations/projects-divider.png" width="100%" alt="" />
 
 ## 🍄 My Projects
-
-<div align="center">
 
 <table>
 <tr>
 <td align="center" valign="top" width="50%">
 
 <a href="https://github.com/JustCromo/Vulpnix">
-<img src="assets/projects/vulpnix.png" width="130" alt="Vulpnix logo" />
+<img src="assets/projects/vulpnix.png" width="120" alt="Vulpnix logo" />
 </a>
 
 ### [Vulpnix](https://github.com/JustCromo/Vulpnix)
 
-**Linux Risk Assessment Tool**
+**🦊 The fox that sniffs out risks**
 
-A Linux security assessment tool focused on identifying system risks and potential security weaknesses.
+A Linux risk assessment tool that scans a machine and turns<br/>what it finds into clear, prioritized security risks.
 
 ![Python](https://img.shields.io/badge/Python-344A3D?style=for-the-badge&logo=python&logoColor=E8DCC4)
 ![Linux](https://img.shields.io/badge/Linux-344A3D?style=for-the-badge&logo=linux&logoColor=E8DCC4)
@@ -60,26 +46,30 @@ A Linux security assessment tool focused on identifying system risks and potenti
 <td align="center" valign="top" width="50%">
 
 <a href="https://github.com/JustCromo/Racoonix">
-<img src="assets/projects/racoonix.png" width="130" alt="Racoonix logo" />
+<img src="assets/projects/racoonix.png" width="120" alt="Racoonix logo" />
 </a>
 
 ### [Racoonix](https://github.com/JustCromo/Racoonix)
+
+**🦝 The raccoon that guards your stock**
+
+A self-hosted web app for small markets: inventory by batch,<br/>expiry alerts and restock warnings, without changing how the shop works.
+
+![Python](https://img.shields.io/badge/Flask-344A3D?style=for-the-badge&logo=flask&logoColor=E8DCC4)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-344A3D?style=for-the-badge&logo=postgresql&logoColor=E8DCC4)
+![Docker](https://img.shields.io/badge/Docker-344A3D?style=for-the-badge&logo=docker&logoColor=E8DCC4)
+
+![Status](https://img.shields.io/badge/🌱_in_development-5B4A6B?style=flat-square)
 
 </td>
 </tr>
 </table>
 
-<img src="assets/decorations/fireflies.gif" width="100%" alt="" />
-
-<img src="assets/decorations/moon-divider.png" width="100%" alt="" />
-
-</div>
+<img src="assets/decorations/greenhouse-divider.png" width="100%" alt="" />
 
 ## 🌿 My Greenhouse
 
-**Languages & Technologies**
-
-<div align="center">
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-344A3D?style=for-the-badge&logo=python&logoColor=E8DCC4)
 ![C++](https://img.shields.io/badge/C%2B%2B-344A3D?style=for-the-badge&logo=cplusplus&logoColor=E8DCC4)
@@ -93,10 +83,6 @@ A Linux security assessment tool focused on identifying system risks and potenti
 ![Git](https://img.shields.io/badge/Git-344A3D?style=for-the-badge&logo=git&logoColor=E8DCC4)
 ![Docker](https://img.shields.io/badge/Docker-344A3D?style=for-the-badge&logo=docker&logoColor=E8DCC4)
 ![Networking](https://img.shields.io/badge/Networking-344A3D?style=for-the-badge&logo=cisco&logoColor=E8DCC4)
-
-</div>
-
-<div align="center">
 
 <img src="assets/decorations/forest-bottom-frame.png" width="100%" alt="" />
 
