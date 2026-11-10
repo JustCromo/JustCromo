@@ -70,6 +70,14 @@ A self-hosted web app for small markets:<br/>batch inventory, expiry alerts and 
 
 ### 🌿 My Greenhouse
 
+**Security & Infrastructure**
+
+![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-344A3D?style=for-the-badge&logo=kalilinux&logoColor=E8DCC4)
+![Network Security](https://img.shields.io/badge/Network_Security-344A3D?style=for-the-badge&logo=wireguard&logoColor=E8DCC4)
+![Network Administration](https://img.shields.io/badge/Network_Administration-344A3D?style=for-the-badge&logo=cisco&logoColor=E8DCC4)
+![Virtualization](https://img.shields.io/badge/Virtualization-344A3D?style=for-the-badge&logo=virtualbox&logoColor=E8DCC4)
+![NIS2](https://img.shields.io/badge/NIS2-344A3D?style=for-the-badge&logo=europeanunion&logoColor=E8DCC4)
+
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-344A3D?style=for-the-badge&logo=python&logoColor=E8DCC4)
@@ -77,12 +85,17 @@ A self-hosted web app for small markets:<br/>batch inventory, expiry alerts and 
 ![C++](https://img.shields.io/badge/C%2B%2B-344A3D?style=for-the-badge&logo=cplusplus&logoColor=E8DCC4)
 ![Java](https://img.shields.io/badge/Java-344A3D?style=for-the-badge&logo=openjdk&logoColor=E8DCC4)
 ![JavaScript](https://img.shields.io/badge/JavaScript-344A3D?style=for-the-badge&logo=javascript&logoColor=E8DCC4)
+![TypeScript](https://img.shields.io/badge/TypeScript-344A3D?style=for-the-badge&logo=typescript&logoColor=E8DCC4)
 ![PHP](https://img.shields.io/badge/PHP-344A3D?style=for-the-badge&logo=php&logoColor=E8DCC4)
+![SQL](https://img.shields.io/badge/SQL-344A3D?style=for-the-badge&logo=sqlite&logoColor=E8DCC4)
+![Perl](https://img.shields.io/badge/Perl-344A3D?style=for-the-badge&logo=perl&logoColor=E8DCC4)
 
-**Frameworks & Data**
+**Web & Data**
 
 ![Flask](https://img.shields.io/badge/Flask-344A3D?style=for-the-badge&logo=flask&logoColor=E8DCC4)
+![Node.js](https://img.shields.io/badge/Node.js-344A3D?style=for-the-badge&logo=nodedotjs&logoColor=E8DCC4)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-344A3D?style=for-the-badge&logo=postgresql&logoColor=E8DCC4)
+![MySQL](https://img.shields.io/badge/MySQL-344A3D?style=for-the-badge&logo=mysql&logoColor=E8DCC4)
 
 **Tools & Environment**
 
@@ -90,7 +103,8 @@ A self-hosted web app for small markets:<br/>batch inventory, expiry alerts and 
 ![Git](https://img.shields.io/badge/Git-344A3D?style=for-the-badge&logo=git&logoColor=E8DCC4)
 ![Docker](https://img.shields.io/badge/Docker-344A3D?style=for-the-badge&logo=docker&logoColor=E8DCC4)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-344A3D?style=for-the-badge&logo=raspberrypi&logoColor=E8DCC4)
-![Networking](https://img.shields.io/badge/Networking-344A3D?style=for-the-badge&logo=cisco&logoColor=E8DCC4)
+
+<sub>🗣️ Italian · English · Slovenian</sub>
 
 <img src="assets/decorations/fireflies.gif" width="100%" alt="" />
 <img src="assets/decorations/forest-bottom-frame.png" width="100%" alt="" />
