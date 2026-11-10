@@ -9,7 +9,9 @@
 **Network & Infrastructure Security**<br/>
 Student at ITS Academy Prodigi · 🌙 open to internships
 
-<img src="assets/decorations/about-divider.png" width="100%" alt="" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ivan_Alexander_Urlini-344A3D?style=for-the-badge&labelColor=5B4A6B)](https://www.linkedin.com/in/ivan-alexander-urlini)
+
+<img src="assets/decorations/flower-divider.png" width="100%" alt="" />
 
 ### 🌱 About Me
 
@@ -18,7 +20,9 @@ Every project in my forest has its own creature, because security tools can be f
 
 🔐 Security &nbsp;·&nbsp; 🐧 Linux & SysAdmin &nbsp;·&nbsp; 🌐 Networking &nbsp;·&nbsp; 💻 Software Development
 
-<img src="assets/decorations/projects-divider.png" width="100%" alt="" />
+<sub>🌙 <b>Currently growing:</b> a host-based intrusion detection system for Linux</sub>
+
+<img src="assets/decorations/lantern-divider.png" width="100%" alt="" />
 
 ### 🍄 My Projects
 
@@ -60,23 +64,32 @@ A self-hosted web app for small markets:<br/>batch inventory, expiry alerts and 
 </tr>
 </table>
 
-<img src="assets/decorations/greenhouse-divider.png" width="100%" alt="" />
+<sub>🌾 <b>Also in the forest:</b> <a href="https://github.com/JustCromo/Corvynix">Corvynix</a>, hackathon prototypes for a medical drone capsule: a tamper-evident digital black box and GNSS spoofing detection.</sub>
+
+<img src="assets/decorations/moon-divider.png" width="100%" alt="" />
 
 ### 🌿 My Greenhouse
 
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-344A3D?style=for-the-badge&logo=python&logoColor=E8DCC4)
+![Bash](https://img.shields.io/badge/Bash-344A3D?style=for-the-badge&logo=gnubash&logoColor=E8DCC4)
 ![C++](https://img.shields.io/badge/C%2B%2B-344A3D?style=for-the-badge&logo=cplusplus&logoColor=E8DCC4)
 ![Java](https://img.shields.io/badge/Java-344A3D?style=for-the-badge&logo=openjdk&logoColor=E8DCC4)
 ![JavaScript](https://img.shields.io/badge/JavaScript-344A3D?style=for-the-badge&logo=javascript&logoColor=E8DCC4)
 ![PHP](https://img.shields.io/badge/PHP-344A3D?style=for-the-badge&logo=php&logoColor=E8DCC4)
+
+**Frameworks & Data**
+
+![Flask](https://img.shields.io/badge/Flask-344A3D?style=for-the-badge&logo=flask&logoColor=E8DCC4)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-344A3D?style=for-the-badge&logo=postgresql&logoColor=E8DCC4)
 
 **Tools & Environment**
 
 ![Linux](https://img.shields.io/badge/Linux-344A3D?style=for-the-badge&logo=linux&logoColor=E8DCC4)
 ![Git](https://img.shields.io/badge/Git-344A3D?style=for-the-badge&logo=git&logoColor=E8DCC4)
 ![Docker](https://img.shields.io/badge/Docker-344A3D?style=for-the-badge&logo=docker&logoColor=E8DCC4)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-344A3D?style=for-the-badge&logo=raspberrypi&logoColor=E8DCC4)
 ![Networking](https://img.shields.io/badge/Networking-344A3D?style=for-the-badge&logo=cisco&logoColor=E8DCC4)
 
 <img src="assets/decorations/fireflies.gif" width="100%" alt="" />
