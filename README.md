@@ -83,6 +83,7 @@ A self-hosted web app for small markets:<br/>batch inventory, expiry and restock
 ![Bash](https://img.shields.io/badge/Bash-344A3D?style=for-the-badge&logo=gnubash&logoColor=E8DCC4)
 ![C++](https://img.shields.io/badge/C%2B%2B-344A3D?style=for-the-badge&logo=cplusplus&logoColor=E8DCC4)
 ![Java](https://img.shields.io/badge/Java-344A3D?style=for-the-badge&logo=openjdk&logoColor=E8DCC4)
+<br/>
 ![JavaScript](https://img.shields.io/badge/JavaScript-344A3D?style=for-the-badge&logo=javascript&logoColor=E8DCC4)
 ![TypeScript](https://img.shields.io/badge/TypeScript-344A3D?style=for-the-badge&logo=typescript&logoColor=E8DCC4)
 ![PHP](https://img.shields.io/badge/PHP-344A3D?style=for-the-badge&logo=php&logoColor=E8DCC4)
@@ -103,7 +104,11 @@ A self-hosted web app for small markets:<br/>batch inventory, expiry and restock
 ![Docker](https://img.shields.io/badge/Docker-344A3D?style=for-the-badge&logo=docker&logoColor=E8DCC4)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-344A3D?style=for-the-badge&logo=raspberrypi&logoColor=E8DCC4)
 
-<sub>🗣️ Italian · English · Slovenian</sub>
+**Spoken Languages**
+
+![Italian](https://img.shields.io/badge/Italian-344A3D?style=for-the-badge)
+![English](https://img.shields.io/badge/English-344A3D?style=for-the-badge)
+![Slovenian](https://img.shields.io/badge/Slovenian-344A3D?style=for-the-badge)
 
 <img src="assets/decorations/fireflies.gif" width="100%" alt="" />
 <img src="assets/decorations/forest-bottom-frame.png" width="100%" alt="" />
