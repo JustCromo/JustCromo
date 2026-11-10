@@ -54,7 +54,7 @@ A Linux risk assessment tool that scans a machine<br/>and turns findings into cl
 
 **The raccoon that guards your stock**
 
-A self-hosted web app for small markets:<br/>batch inventory, expiry alerts and restock warnings.
+A self-hosted web app for small markets:<br/>batch inventory, expiry and restock alerts.
 
 ![Flask](https://img.shields.io/badge/Flask-344A3D?style=for-the-badge&logo=flask&logoColor=E8DCC4)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-344A3D?style=for-the-badge&logo=postgresql&logoColor=E8DCC4)
@@ -72,9 +72,9 @@ A self-hosted web app for small markets:<br/>batch inventory, expiry alerts and 
 
 **Security & Infrastructure**
 
-![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-344A3D?style=for-the-badge&logo=kalilinux&logoColor=E8DCC4)
+![Pentesting](https://img.shields.io/badge/Pentesting-344A3D?style=for-the-badge&logo=kalilinux&logoColor=E8DCC4)
 ![Network Security](https://img.shields.io/badge/Network_Security-344A3D?style=for-the-badge&logo=wireguard&logoColor=E8DCC4)
-![Network Administration](https://img.shields.io/badge/Network_Administration-344A3D?style=for-the-badge&logo=cisco&logoColor=E8DCC4)
+![Network Admin](https://img.shields.io/badge/Network_Admin-344A3D?style=for-the-badge&logo=cisco&logoColor=E8DCC4)
 ![Virtualization](https://img.shields.io/badge/Virtualization-344A3D?style=for-the-badge&logo=virtualbox&logoColor=E8DCC4)
 ![NIS2](https://img.shields.io/badge/NIS2-344A3D?style=for-the-badge&logo=europeanunion&logoColor=E8DCC4)
 
